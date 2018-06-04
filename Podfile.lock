@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.4.0)
+  - SwiftOverlays (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4.0)
+  - SwiftOverlays (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - SwiftOverlays
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  SwiftOverlays: dae1efb029c9401d357044dd70fd2cfce791fcb0
+
+PODFILE CHECKSUM: ea5b0ce1d234fee9a7208d0feac81e10f05a2d17
+
+COCOAPODS: 1.5.0
